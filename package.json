@@ -1,0 +1,19 @@
+{
+  "name": "hello-world",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/surabhigit/hello-world.git"
+  },
+  "author": "Surbhi Pawar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/surabhigit/hello-world/issues"
+  },
+  "homepage": "https://github.com/surabhigit/hello-world#readme"
+}
